@@ -5,7 +5,7 @@ class VGLUG:
         self.age=age
         self.id=id
         
-        self.phone=phone
+        self.phone= phone
 
     def get member Details(self):
         print("name:",self.name)
